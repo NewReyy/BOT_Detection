@@ -173,7 +173,7 @@ Project ini dilisensikan di bawah [MIT License]().
 
 ---
 
-**Terakhir diperbarui**: 2025-08-01
+**Terakhir diperbarui**: 2025-10-06
 🔗 **Repository**: [bot-detection-social-media](https://github.com/NewReyy/BOT_Detection/)
 
 ---
